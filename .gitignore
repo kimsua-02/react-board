@@ -7,6 +7,11 @@ build/
 src/main/resources/application.yml
 /src/main/resources/
 
+.build.gradle
+.gradlew.bat
+.settings.gradle
+.gitattributes
+
 *.yml
 ### STS ###
 .apt_generated
